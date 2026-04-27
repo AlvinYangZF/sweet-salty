@@ -1,0 +1,149 @@
+{
+  "id": "scene_001",
+  "title": "公交车上 · 初见",
+  "trigger": "公交车上，小甜手里拎着一袋芒果，站到了小盐旁边",
+  "lines": [
+    {
+      "type": "action",
+      "text": "晚高峰 7 路公交车 · 小盐加班刚结束"
+    },
+    {
+      "type": "monologue",
+      "text": "烦死了，今天改 bug 改到九点半，现在还要跟一堆人挤公交。旁边这个男的提一袋芒果站都站不稳，一看就是个没生活经验的码农。这人该不会是跟我一个楼的吧？"
+    },
+    {
+      "type": "monologue",
+      "text": "他会不会来和我说话。会不会觉得我没有礼貌。他应该是喜欢我的吧？但是如果不喜欢就很尴尬了，他还是挺帅的，要是每天都能见到他就好了。"
+    },
+    {
+      "type": "dialogue",
+      "who": "salty",
+      "text": "你注意点。"
+    },
+    {
+      "type": "dialogue",
+      "who": "sweet",
+      "text": "啊不好意思不好意思——"
+    },
+    {
+      "type": "dialogue",
+      "who": "salty",
+      "text": "行了行了别道歉了，又没撞坏。你这芒果挺多啊，整棵树的都摘了？"
+    },
+    {
+      "type": "dialogue",
+      "who": "sweet",
+      "text": "不好意思，这个袋子有点重……"
+    },
+    {
+      "type": "dialogue",
+      "who": "sweet",
+      "text": "呃……那个，你也是程序员吗？"
+    },
+    {
+      "type": "dialogue",
+      "who": "salty",
+      "text": "咋了，看不起女的写代码？"
+    },
+    {
+      "type": "dialogue",
+      "who": "sweet",
+      "text": "不是不是不是！我也是——做算法的。看到你在看日志……"
+    },
+    {
+      "type": "action",
+      "text": "沉默，两站路"
+    },
+    {
+      "type": "dialogue",
+      "who": "sweet",
+      "text": "那个……我买了芒果，挺甜的，你要不要——"
+    },
+    {
+      "type": "dialogue",
+      "who": "salty",
+      "text": "不要。"
+    },
+    {
+      "type": "dialogue",
+      "who": "sweet",
+      "text": "哦……好。"
+    },
+    {
+      "type": "dialogue",
+      "who": "salty",
+      "text": "……我不爱吃芒果。"
+    },
+    {
+      "type": "dialogue",
+      "who": "sweet",
+      "text": "那你喜欢吃什么？我下次——"
+    },
+    {
+      "type": "dialogue",
+      "who": "salty",
+      "text": "谁说有下次了？"
+    },
+    {
+      "type": "dialogue",
+      "who": "sweet",
+      "text": "那——我能加你个微信吗？以后有问题可以请教你……"
+    },
+    {
+      "type": "dialogue",
+      "who": "salty",
+      "text": "（沉默）我扫你。"
+    },
+    {
+      "type": "action",
+      "text": "小甜通过了好友申请"
+    },
+    {
+      "type": "dialogue",
+      "who": "salty",
+      "text": "昵称写全名，别写网名，我看不懂。"
+    },
+    {
+      "type": "dialogue",
+      "who": "sweet",
+      "text": "我叫……小甜。"
+    },
+    {
+      "type": "dialogue",
+      "who": "salty",
+      "text": "……认真的？"
+    },
+    {
+      "type": "dialogue",
+      "who": "sweet",
+      "text": "我妈说希望我甜一点。"
+    },
+    {
+      "type": "dialogue",
+      "who": "salty",
+      "text": "那你妈估计要失望了。走了。"
+    },
+    {
+      "type": "dialogue",
+      "who": "sweet",
+      "text": "明天见？"
+    },
+    {
+      "type": "dialogue",
+      "who": "salty",
+      "text": "谁跟你说一个公司的？明天不上班？你会不会聊天。"
+    },
+    {
+      "type": "action",
+      "text": "车门关上，小甜站在原地，手机屏幕亮着"
+    },
+    {
+      "type": "monologue",
+      "text": "她把他备注改成了「芒果男」，后来又改成了「芒果」。她每天到工位第一件事是看他有没有发朋友圈。"
+    },
+    {
+      "type": "monologue",
+      "text": "他收藏了她说的「那你妈估计要失望了」。他觉得那是她说过最温柔的话。"
+    }
+  ]
+}

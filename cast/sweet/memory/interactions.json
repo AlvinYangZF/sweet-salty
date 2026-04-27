@@ -1,5 +1,13 @@
 {
-  "history": [],
-  "notes": {},
-  "relations": {}
+  "history": [
+    {
+      "scene": "scene_001",
+      "trigger": "公交车上，小甜手里拎着一袋芒果，站到了小盐旁边",
+      "timestamp": "2026-04-27T01:43:00"
+    }
+  ],
+  "notes": {
+    "bus_first_meet": "2026-04-27 公交车上第一次相遇",
+    "mango": "他/她提了一袋芒果"
+  }
 }
